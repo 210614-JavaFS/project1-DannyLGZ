@@ -1,0 +1,8 @@
+
+/*hide role-specific div html*/
+div.manager, div.employee {
+    display: none;
+    }
+
+
+
