@@ -358,3 +358,13 @@
 23:06:47.397 [] [main] INFO  daos.ReimDAOImpl - Retrieve all pending reimbursement tickets
 23:06:57.038 [] [main] INFO  daos.ReimDAOImpl - Retrieve all reimbursement tickets
 23:06:57.263 [] [main] INFO  daos.ReimDAOImpl - Retrieve reimbursement tickets43198
+23:48:42.391 [] [http-nio-8080-exec-5] INFO  web.FrontControllerServlet - 
+23:48:44.806 [] [http-nio-8080-exec-8] INFO  web.FrontControllerServlet - 1 Finance Manager: Steven Hamilton logged in.
+23:48:58.531 [] [http-nio-8080-exec-3] INFO  daos.ReimDAOImpl - Submit new reimbursement ticket
+23:52:46.843 [] [http-nio-8080-exec-3] INFO  web.FrontControllerServlet - 1 Finance Manager: Steven Hamilton logged in.
+23:52:53.763 [] [http-nio-8080-exec-4] INFO  daos.ReimDAOImpl - Retrieve past reimbursement tickets
+23:56:13.606 [] [http-nio-8080-exec-13] INFO  daos.ReimDAOImpl - Submit new reimbursement ticket
+23:56:24.866 [] [http-nio-8080-exec-18] INFO  daos.ReimDAOImpl - Retrieve past reimbursement tickets
+23:59:16.014 [] [http-nio-8080-exec-19] INFO  web.FrontControllerServlet - 
+23:59:17.961 [] [http-nio-8080-exec-8] INFO  web.FrontControllerServlet - 4 Employee: Janice Gardner logged in.
+23:59:25.295 [] [http-nio-8080-exec-25] INFO  daos.ReimDAOImpl - Retrieve past reimbursement tickets

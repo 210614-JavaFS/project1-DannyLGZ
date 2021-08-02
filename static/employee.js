@@ -354,7 +354,7 @@ async function addReim(){
 
     if(response.status === 201){
         alert("You have successfully submitted a new reimbursement.");
-        document.getElementById("addNewReimForm").
+        document.getElementById("addNewReimForm").reset();
         console.log("Reimbursement successfully submitted.");
     }else{
         console.log("Something went wrong to submit new reimbursement.")

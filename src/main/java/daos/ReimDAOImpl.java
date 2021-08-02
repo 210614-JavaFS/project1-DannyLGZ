@@ -209,7 +209,7 @@ public class ReimDAOImpl implements ReimDAO{
 			statement.setDouble(++index, reimbursement.getReimAmount());
 			statement.setTimestamp(++index, timestamp);
 			statement.setTimestamp(++index, null);
-			statement.setString(++index, null);
+			statement.setString(++index, reimbursement.getReimDescription());
 			statement.setInt(++index, reimbursement.getReimAuthorId().getUserId());
 			statement.setObject(++index,null);
 			statement.setInt(++index, 1);

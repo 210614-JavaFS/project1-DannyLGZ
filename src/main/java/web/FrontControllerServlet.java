@@ -86,9 +86,7 @@ public class FrontControllerServlet extends HttpServlet {
 						case "myreim":
 							String usertest = session.getAttribute("userName").toString();
 							User newUser = userDAO.findUserByUserName(usertest);
-							System.out.println(newUser);
 							int nameId = newUser.getUserId();
-							System.out.println(nameId);
 							reimController.getReimByAuthor(response, nameId);
 							break;
 						case "addnewreim":
