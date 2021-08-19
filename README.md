@@ -54,6 +54,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 ## Reimbursement Types
 Employees must select the type of reimbursement as: LODGING, TRAVEL, FOOD, or OTHER.
+
 ![image](https://user-images.githubusercontent.com/67383232/129996670-6f52cb24-08cf-4f27-b628-def7e8f82b46.png)
 
 
